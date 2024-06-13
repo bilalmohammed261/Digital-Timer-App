@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.app-container {
+  background-image: linear-gradient(to right, #ffffff, #defafe);
+  background-size: cover;
+  height: 100vh;
+}
+
+.heading {
+  font-size: 28px;
+  text-align: center;
+}
+
+.timer-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+}
