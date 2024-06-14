@@ -13,4 +13,5 @@
 
 .timer-container {
   background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  box-shadow: 0px 4px 16px 0px;
 }
