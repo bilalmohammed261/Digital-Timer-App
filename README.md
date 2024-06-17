@@ -1,4 +1,4 @@
-In this project, let's build a **Digital Timer App** by applying the concepts we have learned till now.
+In this project, let's build a **Digital Timer App** by applying the concepts we have learned till now. Check at https://btimer.ccbp.tech
 
 ### Refer to the image below:
 
@@ -104,7 +104,7 @@ Use these files to complete the implementation:
 - You can use `Math.floor()` function that returns the **largest integer less than or equal to a given number**
 
   ```js
-  console.log(Math.floor(5.95)); // output: 5
+  console.log(Math.floor(5.95)) // output: 5
   ```
 
 - You can use the `background-position` CSS property to set the starting position of a background image
